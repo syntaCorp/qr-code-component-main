@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    background: hsl(220, 15%, 55%);
+    background-color: hsl(212, 46%, 89%);
     height: 100vh;
     display: flex;
     align-items: center;
@@ -19,7 +19,7 @@ body {
 
 .content {
     background-color: hsl(0, 0%, 100%);
-    border-radius: 5px;
+    border-radius: .8em;
     padding: 1em;
     text-align: center;
     width: 19em;
@@ -31,10 +31,6 @@ img {
     max-width: 100%;
 }
 
-.qr-code {
-    border-radius: .8em;
-    /* padding: 0 0 2em; */
-}
 
 h2 {
     font-weight: 700;
@@ -42,7 +38,7 @@ h2 {
 }
 
 p {
-    color: hsl(212, 45%, 89%);
+    color:hsl(219, 15%, 55%);
     font-weight: 400;
     width: 90%;
     margin: 0 auto 1.8em;
@@ -54,8 +50,8 @@ p {
 
     color: #c4c4c4;
     text-align: center;
-    position: absolute;
-    bottom: 2em;
+    position: fixed;
+    bottom: .5em;
 }
 
 .attribution a {
