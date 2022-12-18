@@ -23,21 +23,17 @@ body {
     border-radius: 5px;
     padding: 1em;
     text-align: center;
-    width: 18em;
+    width: 19em;
     max-width: 80%;
 }
 
 img {
     border-radius: .8em;
-    /* height: 20em; */
     max-width: 100%;
-    /* max-width: ; */
-    
-
 }
 
 .qr-code {
-    border-radius: 5px;
+    border-radius: .8em;
     /* padding: 0 0 2em; */
 }
 
@@ -50,7 +46,7 @@ p {
     color: hsl(212, 45%, 89%);
     font-weight: 400;
     width: 90%;
-    margin: 0 auto;
+    margin: 0 auto 1.8em;
 }
 
 
