@@ -48,7 +48,7 @@ p {
 .attribution {
     font-size: 11px;
 
-    color: #c4c4c4;
+    color:hsl(219, 15%, 55%);
     text-align: center;
     position: fixed;
     bottom: .5em;
